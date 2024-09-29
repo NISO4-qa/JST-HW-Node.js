@@ -1,14 +1,28 @@
 {
-    "name": "eslint-examples",
-    "version": "0.0.0",
-    "main": "index.js",
-    "scripts": {
-        "eslint": "eslint"
-    },
-    "devDependencies": {
-        "eslint": "7.1.0"
-    },
-    "author": "",
-    "license": "ISC",
-    "description": ""
+  "name": "hw2",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hwe"
+  ],
+  "author": "NISO4",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.11.1",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^9.11.1",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "eslint-plugin-react": "^7.37.0",
+    "globals": "^15.9.0",
+    "prettier": "3.3.3",
+    "typescript-eslint": "^8.7.0"
+  },
+  "dependencies": {
+    "eslint-plugin-unicorn": "^55.0.0"
+  }
 }
